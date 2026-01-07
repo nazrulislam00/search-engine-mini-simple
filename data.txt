@@ -1,0 +1,4 @@
+Python is a powerful language
+JavaScript is used for web development
+Go is fast and efficient
+C++ is great for performance
